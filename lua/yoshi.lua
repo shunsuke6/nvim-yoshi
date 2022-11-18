@@ -44,4 +44,3 @@ function M.show()
 end
 
 return M
--- vim.cmd([[autocmd BufWritePost * :luafile %]])
