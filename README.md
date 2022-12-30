@@ -4,7 +4,7 @@
 
 ## installation
 
-For packer:
+For [packer](https://github.com/wbthomason/packer.nvim):
 
 `use("shunsuke6/nvim-yoshi")`
 
